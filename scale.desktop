@@ -1,0 +1,19 @@
+[Desktop Entry]
+Comment[en_US]=
+Comment=
+Exec=sudo /home/desu/build-scale-Desktop-Release/scale
+GenericName[en_US]=
+GenericName=
+Icon=applications-system
+MimeType=
+Name[en_US]=
+Name=
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=
